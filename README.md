@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ellenealai-databutton-mcp-templates-badge.png)](https://mseep.ai/app/ellenealai-databutton-mcp-templates)
+
 # databutton-mcp-templates
 A collection of APIs that can be added to your Databutton hosted MCP Server. Enabling you to add capabilities to your AI Agent.
 
